@@ -1,0 +1,11 @@
+F:\microsoft programs\login\bin\Debug\login.exe.config
+F:\microsoft programs\login\bin\Debug\login.exe
+F:\microsoft programs\login\bin\Debug\login.pdb
+F:\microsoft programs\login\obj\Debug\login.csproj.AssemblyReference.cache
+F:\microsoft programs\login\obj\Debug\login.csproj.SuggestedBindingRedirects.cache
+F:\microsoft programs\login\obj\Debug\login.Form1.resources
+F:\microsoft programs\login\obj\Debug\login.Properties.Resources.resources
+F:\microsoft programs\login\obj\Debug\login.csproj.GenerateResource.cache
+F:\microsoft programs\login\obj\Debug\login.csproj.CoreCompileInputs.cache
+F:\microsoft programs\login\obj\Debug\login.exe
+F:\microsoft programs\login\obj\Debug\login.pdb
